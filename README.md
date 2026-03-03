@@ -1,5 +1,8 @@
 # ComicGen MVP
 
+<img width="1039" height="892" alt="Screenshot from 2026-03-03 17-58-25" src="https://github.com/user-attachments/assets/f4dfe472-8cea-4c91-b4b4-a9cb19e838d8" />
+
+
 ComicGen is an open-source Next.js app for generating consistent multi-panel comics with OpenRouter image-capable models, then arranging generated panels and speech bubbles in a page editor.
 
 ## Current MVP capabilities
