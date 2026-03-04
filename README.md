@@ -185,6 +185,9 @@ The client now compresses references and enforces a reference budget before send
 - ✅ Add draggable/resizable panel boxes with snap grid.
 - ✅ Add template save/load/delete for reusable page compositions.
 
+<img width="782" height="849" alt="Screenshot from 2026-03-03 17-59-42" src="https://github.com/user-attachments/assets/968a82f5-b4a7-405e-8fff-62024f18e134" />
+
+
 ### 6) Output and sharing
 
 - Add PDF export (single page and multi-page).
